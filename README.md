@@ -1,15 +1,15 @@
-# OpenStack-Horizon-Dark-Violet
+# OpenStack Horizon Dark Violet
 
 A modern dark violet theme for the OpenStack Horizon dashboard, installed on Kolla-Ansible deployments with a single script.
 
 Dark Violet replaces Horizon's default look with a dark, gradient-accented interface: pill-shaped navigation, rounded cards and forms, donut usage charts, and a custom logo and favicon. It ships in two color variants and is fully reversible.
 
 <p align="center">
-  <img src="docs/screenshots/overview.png" alt="Dark Violet theme - Compute overview" width="100%">
+  <img src="instances.png" alt="Dark Violet theme - Instances" width="100%">
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/instances.png" alt="Dark Violet theme - Instances" width="100%">
+  <img src="login.png" alt="Dark Violet theme - Login" width="60%">
 </p>
 
 ---
@@ -37,8 +37,8 @@ Dark Violet replaces Horizon's default look with a dark, gradient-accented inter
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/openstack-horizon-dark-violet.git
-cd openstack-horizon-dark-violet
+git clone https://github.com/MISTERKAMILION/OpenStack-Horizon-Dark-Violet.git
+cd OpenStack-Horizon-Dark-Violet
 sudo bash install-dark-violet.sh
 ```
 
@@ -113,12 +113,10 @@ This removes the Dark Violet blocks from `globals.yml` and the custom settings f
 ## Repository layout
 
 ```
-openstack-horizon-dark-violet/
+OpenStack-Horizon-Dark-Violet/
 ├── install-dark-violet.sh     # installer / reverter
-├── docs/
-│   └── screenshots/
-│       ├── overview.png
-│       └── instances.png
+├── instances.png
+├── login.png
 ├── LICENSE
 └── README.md
 ```
