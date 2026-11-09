@@ -4,12 +4,13 @@ A modern dark violet theme for the OpenStack Horizon dashboard, installed on Kol
 
 Dark Violet replaces Horizon's default look with a dark, gradient-accented interface: pill-shaped navigation, rounded cards and forms, donut usage charts, and a custom logo and favicon. It ships in two color variants and is fully reversible.
 
-<p align="center">
-  <img src="instances.png" alt="Dark Violet theme - Instances" width="100%">
-</p>
 
 <p align="center">
   <img src="login.png" alt="Dark Violet theme - Login" width="60%">
+</p>
+
+<p align="center">
+  <img src="instances.png" alt="Dark Violet theme - Instances" width="100%">
 </p>
 
 ---
