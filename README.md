@@ -1,5 +1,4 @@
 # OpenStack-Horizon-Dark-Violet
-# OpenStack Horizon Dark Violet
 
 A modern dark violet theme for the OpenStack Horizon dashboard, installed on Kolla-Ansible deployments with a single script.
 
